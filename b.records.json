@@ -1,0 +1,21 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "node_modules/cache-loader/dist/cjs.js??ref--0-0!a.js": 0,
+      "node_modules/cache-loader/dist/cjs.js??ref--1-0!a.js": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "a": 0
+    },
+    "byBlocks": {},
+    "usedIds": {
+      "0": 0
+    }
+  }
+}
